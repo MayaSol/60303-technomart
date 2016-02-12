@@ -1,0 +1,239 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-icon-basket {
+    width: 17px;
+    height: 16px;
+    background-position: -5px -5px;
+}
+
+.sprite-icon-bookmarks {
+    width: 14px;
+    height: 16px;
+    background-position: -5px -31px;
+}
+
+.sprite-icon-breadcrumbs-arrow {
+    width: 8px;
+    height: 12px;
+    background-position: -5px -57px;
+}
+
+.sprite-icon-breadcrumbs-home {
+    width: 15px;
+    height: 12px;
+    background-position: -5px -79px;
+}
+
+.sprite-icon-checkbox {
+    width: 23px;
+    height: 23px;
+    background-position: -5px -101px;
+}
+
+.sprite-icon-checkbox-checked {
+    width: 27px;
+    height: 23px;
+    background-position: -5px -134px;
+}
+
+.sprite-icon-checkbox-checked-disabled {
+    width: 27px;
+    height: 23px;
+    background-position: -5px -167px;
+}
+
+.sprite-icon-checkbox-checked-hover {
+    width: 27px;
+    height: 23px;
+    background-position: -5px -200px;
+}
+
+.sprite-icon-checkbox-disabled {
+    width: 23px;
+    height: 23px;
+    background-position: -5px -233px;
+}
+
+.sprite-icon-checkbox-hover {
+    width: 23px;
+    height: 23px;
+    background-position: -5px -266px;
+}
+
+.sprite-icon-delivery {
+    width: 78px;
+    height: 63px;
+    background-position: -5px -299px;
+}
+
+.sprite-icon-discount {
+    width: 59px;
+    height: 72px;
+    background-position: -5px -372px;
+}
+
+.sprite-icon-equipment {
+    width: 78px;
+    height: 62px;
+    background-position: -5px -454px;
+}
+
+.sprite-icon-fb {
+    width: 10px;
+    height: 18px;
+    background-position: -5px -526px;
+}
+
+.sprite-icon-inst {
+    width: 17px;
+    height: 17px;
+    background-position: -5px -554px;
+}
+
+.sprite-icon-item-new {
+    width: 60px;
+    height: 59px;
+    background-position: -5px -581px;
+}
+
+.sprite-icon-login {
+    width: 20px;
+    height: 17px;
+    background-position: -5px -650px;
+}
+
+.sprite-icon-login-hover {
+    width: 20px;
+    height: 17px;
+    background-position: -5px -677px;
+}
+
+.sprite-icon-logout {
+    width: 21px;
+    height: 17px;
+    background-position: -5px -704px;
+}
+
+.sprite-icon-logout-hover {
+    width: 21px;
+    height: 17px;
+    background-position: -5px -731px;
+}
+
+.sprite-icon-materials {
+    width: 44px;
+    height: 65px;
+    background-position: -5px -758px;
+}
+
+.sprite-icon-msg-checked {
+    width: 39px;
+    height: 30px;
+    background-position: -5px -833px;
+}
+
+.sprite-icon-msg-close {
+    width: 21px;
+    height: 21px;
+    background-position: -5px -873px;
+}
+
+.sprite-icon-new {
+    width: 60px;
+    height: 59px;
+    background-position: -5px -904px;
+}
+
+.sprite-icon-phone {
+    width: 19px;
+    height: 19px;
+    background-position: -5px -973px;
+}
+
+.sprite-icon-radio {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1002px;
+}
+
+.sprite-icon-radio-checked {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1037px;
+}
+
+.sprite-icon-radio-checked-disabled {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1072px;
+}
+
+.sprite-icon-radio-checked-hover {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1107px;
+}
+
+.sprite-icon-radio-disabled {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1142px;
+}
+
+.sprite-icon-radio-hover {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1177px;
+}
+
+.sprite-icon-search {
+    width: 17px;
+    height: 17px;
+    background-position: -5px -1212px;
+}
+
+.sprite-icon-search-focus {
+    width: 17px;
+    height: 17px;
+    background-position: -5px -1239px;
+}
+
+.sprite-icon-slider-left {
+    width: 22px;
+    height: 40px;
+    background-position: -5px -1266px;
+}
+
+.sprite-icon-slider-right {
+    width: 22px;
+    height: 40px;
+    background-position: -5px -1316px;
+}
+
+.sprite-icon-tools {
+    width: 75px;
+    height: 61px;
+    background-position: -5px -1366px;
+}
+
+.sprite-icon-user-name {
+    width: 20px;
+    height: 18px;
+    background-position: -5px -1437px;
+}
+
+.sprite-icon-user-name-hover {
+    width: 20px;
+    height: 18px;
+    background-position: -5px -1465px;
+}
+
+.sprite-icon-vk {
+    width: 20px;
+    height: 12px;
+    background-position: -5px -1493px;
+}
